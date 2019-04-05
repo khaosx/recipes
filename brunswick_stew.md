@@ -4,12 +4,12 @@
 This is a great presentation of traditional Brunswick stew, leaning more towards the Virginia version than the Georgia version.
 
 ### Specs
-Prep Time:      20 minutes
-Cook Time:      4 hours
-Total Time:     4 hours, 20 minutes
-Serving Size:   1 cup
-Servings:       16
-Dificulty:      Medium
+- Prep Time:      20 minutes
+- Cook Time:      4 hours
+- Total Time:     4 hours, 20 minutes
+- Serving Size:   1 cup
+- Servings:       16
+- Dificulty:      Medium
 
 ### Ingredients
 
